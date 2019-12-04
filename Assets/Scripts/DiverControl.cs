@@ -81,7 +81,7 @@ public class DiverControl : MonoBehaviour
         moveVector += yaw;
         Debug.Log("Vertical move: " + moveVector.y);
         if (moveVector.y > 15f) moveVector.y = 15f;
-        else if (moveVector.y < -10f) moveVector.y = -10f;
+        else if (moveVector.y < -15f) moveVector.y = -15f;
         transform.rotation = Quaternion.LookRotation(moveVector);
 
         transform.position += moveVector * Time.deltaTime;

@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-12-04T02:32:58.717-08:00
-  initializedAtString: 2019-12-04T02:32:58.717-08:00
+  lastUpdatedAtString: 2019-12-04T05:43:42.102-08:00
+  initializedAtString: 2019-12-04T05:43:42.102-08:00
   currentGitRemote:
     name: origin
-    url: https://github.com/shenyi1028/Rush-Diving-src.git
+    url: https://github.com/jingwengong/RushDivingGame.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: 
-    tracking: 
+    name: master
+    tracking: origin/master
   currentConfigBranch:
-    name: 
+    name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/jingwengong/RushDivingGame.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/shenyi1028/Rush-Diving-src.git
+    url: https://github.com/jingwengong/RushDivingGame.git
   currentHead: 

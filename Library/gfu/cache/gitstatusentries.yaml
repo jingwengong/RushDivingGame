@@ -13,2809 +13,420 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-12-04T02:20:41.503-08:00
-  initializedAtString: 2019-12-04T02:20:41.503-08:00
+  lastUpdatedAtString: 2019-12-04T05:43:54.151-08:00
+  initializedAtString: 2019-12-04T05:43:42.256-08:00
   entries:
-  - path: Assets\EgyptMonsters\Animators\Eagles\Eagle.controller
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\EgyptMonsters\Animators\Eagles\Eagle.controller
-    projectPath: Assets\EgyptMonsters\Animators\Eagles\Eagle.controller
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Plugins\Horizon[ON]\_Example Scene\Misc\Terrain\TerrainResources\Horizon[ON]
-      Terrain (Gamma).mat
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Plugins\Horizon[ON]\_Example
-      Scene\Misc\Terrain\TerrainResources\Horizon[ON] Terrain (Gamma).mat
-    projectPath: Assets\Plugins\Horizon[ON]\_Example Scene\Misc\Terrain\TerrainResources\Horizon[ON]
-      Terrain (Gamma).mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Cliff.mat
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
-      Cliff.mat
-    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Cliff.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Displacement.mat
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
-      Displacement.mat
-    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Displacement.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Flat.mat
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
-      Flat.mat
-    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Flat.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
-      Buildings (Gamma).mat
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
-      Variations (Gamma _ Mobile)\Horizon[ON] Buildings (Gamma).mat
-    projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _
-      Mobile)\Horizon[ON] Buildings (Gamma).mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
-      Mountains (Gamma).mat
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
-      Variations (Gamma _ Mobile)\Horizon[ON] Mountains (Gamma).mat
-    projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _
-      Mobile)\Horizon[ON] Mountains (Gamma).mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
-      Trees (Gamma).mat
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
-      Variations (Gamma _ Mobile)\Horizon[ON] Trees (Gamma).mat
-    projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _
-      Mobile)\Horizon[ON] Trees (Gamma).mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets\Scenes\Game.unity
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Scenes\Game.unity
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Assets\Scenes\Game.unity
     projectPath: Assets\Scenes\Game.unity
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Behavior\EagleBehavior.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Scripts\Behavior\EagleBehavior.cs
-    projectPath: Assets\Scripts\Behavior\EagleBehavior.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Behavior\SpellBehavior.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Scripts\Behavior\SpellBehavior.cs
-    projectPath: Assets\Scripts\Behavior\SpellBehavior.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Behavior\VenomSpellBehavior.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Scripts\Behavior\VenomSpellBehavior.cs
-    projectPath: Assets\Scripts\Behavior\VenomSpellBehavior.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Behavior\VenomSpellBehavior.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Scripts\Behavior\VenomSpellBehavior.cs.meta
-    projectPath: Assets\Scripts\Behavior\VenomSpellBehavior.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Assets\Scripts\DiverControl.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Scripts\DiverControl.cs
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Assets\Scripts\DiverControl.cs
     projectPath: Assets\Scripts\DiverControl.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\MainMenu.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Scripts\MainMenu.cs
-    projectPath: Assets\Scripts\MainMenu.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Menu.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Scripts\Menu.cs
-    projectPath: Assets\Scripts\Menu.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Unity Recorder.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder.meta
-    projectPath: Assets\Unity Recorder.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Documentation.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Documentation.meta
-    projectPath: Assets\Unity Recorder\Documentation.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Documentation\UnityRecorderV1UserManual.pdf
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Documentation\UnityRecorderV1UserManual.pdf
-    projectPath: Assets\Unity Recorder\Documentation\UnityRecorderV1UserManual.pdf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Documentation\UnityRecorderV1UserManual.pdf.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Documentation\UnityRecorderV1UserManual.pdf.meta
-    projectPath: Assets\Unity Recorder\Documentation\UnityRecorderV1UserManual.pdf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor.meta
-    projectPath: Assets\Unity Recorder\Editor.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\_RecorderComponent.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\_RecorderComponent.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\_RecorderComponent.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\_RecorderComponent.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\_RecorderComponent.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\_RecorderComponent.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\AspectRatio.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\AspectRatio.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\AspectRatio.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\AspectRatio.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\AspectRatio.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\AspectRatio.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\AspectRatioPropertyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\AspectRatioPropertyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\AspectRatioPropertyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\AspectRatioPropertyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\AspectRatioPropertyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\AspectRatioPropertyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\BaseRenderTextureInput.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\BaseRenderTextureInput.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\BaseRenderTextureInput.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\BaseRenderTextureInput.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\BaseRenderTextureInput.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\BaseRenderTextureInput.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\EditableLabel.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\EditableLabel.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\EditableLabel.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\EditableLabel.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\EditableLabel.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\EditableLabel.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\EnumProperyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\EnumProperyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\EnumProperyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\EnumProperyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\EnumProperyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\EnumProperyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\FileNameGenerator.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\FileNameGenerator.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\FileNameGenerator.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\FileNameGenerator.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\FileNameGenerator.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\FileNameGenerator.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\FileNameGeneratorDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\FileNameGeneratorDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\FileNameGeneratorDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\FileNameGeneratorDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\FileNameGeneratorDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\FileNameGeneratorDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\FrameRateProperyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\FrameRateProperyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\FrameRateProperyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\FrameRateProperyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\FrameRateProperyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\FrameRateProperyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\GenericRecorder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\GenericRecorder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\GenericRecorder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\GenericRecorder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\GenericRecorder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\GenericRecorder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Helpers.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Helpers.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Helpers.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Helpers\EnumHelper.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Helpers\EnumHelper.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Helpers\EnumHelper.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Helpers\EnumHelper.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Helpers\EnumHelper.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Helpers\EnumHelper.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Helpers\PresetHelper.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Helpers\PresetHelper.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Helpers\PresetHelper.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Helpers\PresetHelper.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Helpers\PresetHelper.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Helpers\PresetHelper.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Helpers\SerializableObjHelper.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Helpers\SerializableObjHelper.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Helpers\SerializableObjHelper.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Helpers\SerializableObjHelper.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Helpers\SerializableObjHelper.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Helpers\SerializableObjHelper.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Helpers\StatusBarHelper.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Helpers\StatusBarHelper.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Helpers\StatusBarHelper.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Helpers\StatusBarHelper.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Helpers\StatusBarHelper.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Helpers\StatusBarHelper.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Helpers\UIElementHelper.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Helpers\UIElementHelper.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Helpers\UIElementHelper.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Helpers\UIElementHelper.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Helpers\UIElementHelper.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Helpers\UIElementHelper.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Helpers\UnityHelpers.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Helpers\UnityHelpers.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Helpers\UnityHelpers.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Helpers\UnityHelpers.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Helpers\UnityHelpers.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Helpers\UnityHelpers.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\ImageHeightSelector.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\ImageHeightSelector.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\ImageHeightSelector.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\ImageHeightSelector.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\ImageHeightSelector.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\ImageHeightSelector.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\ImageInputSelector.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\ImageInputSelector.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\ImageInputSelector.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\ImageInputSelector.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\ImageInputSelector.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\ImageInputSelector.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\ImageInputSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\ImageInputSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\ImageInputSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\ImageInputSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\ImageInputSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\ImageInputSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\InputPropertyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\InputPropertyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\InputPropertyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\InputPropertyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\InputPropertyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\InputPropertyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\InputSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\InputSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\InputSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\InputSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\InputSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\InputSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\InputSettingsSelector.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\InputSettingsSelector.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\InputSettingsSelector.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\InputSettingsSelector.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\InputSettingsSelector.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\InputSettingsSelector.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\InputSettingsSelectorDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\InputSettingsSelectorDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\InputSettingsSelectorDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\InputSettingsSelectorDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\InputSettingsSelectorDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\InputSettingsSelectorDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\InternalEnums.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\InternalEnums.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\InternalEnums.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\InternalEnums.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\InternalEnums.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\InternalEnums.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Options.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Options.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Options.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Options.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Options.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Options.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\OutputPath.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\OutputPath.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\OutputPath.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\OutputPath.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\OutputPath.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\OutputPath.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\OutputPathDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\OutputPathDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\OutputPathDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\OutputPathDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\OutputPathDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\OutputPathDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\OutputResolution.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\OutputResolution.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\OutputResolution.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\OutputResolution.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\OutputResolution.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\OutputResolution.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\OutputResolutionPropertyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\OutputResolutionPropertyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\OutputResolutionPropertyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\OutputResolutionPropertyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\OutputResolutionPropertyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\OutputResolutionPropertyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\PanelSplitter.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\PanelSplitter.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\PanelSplitter.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\PanelSplitter.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\PanelSplitter.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\PanelSplitter.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderController.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderController.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderController.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderController.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderController.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderController.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderControllerSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderControllerSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderControllerSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderControllerSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderControllerSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderControllerSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderControllerSettingsPreset.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderControllerSettingsPreset.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderControllerSettingsPreset.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderControllerSettingsPreset.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderControllerSettingsPreset.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderControllerSettingsPreset.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderControllerSettingsPresetEditor.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderControllerSettingsPresetEditor.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderControllerSettingsPresetEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderControllerSettingsPresetEditor.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderControllerSettingsPresetEditor.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderControllerSettingsPresetEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderEditor.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderEditor.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderEditor.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderEditor.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderInput.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderInput.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderInput.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderInput.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderInput.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderInput.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderItem.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderItem.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderItem.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderItem.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderItem.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderItem.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Animation.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInput.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInput.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInput.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInput.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInput.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInput.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInputSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInputSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInputSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInputSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInputSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInputSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInputSettingsPropertyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInputSettingsPropertyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInputSettingsPropertyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInputSettingsPropertyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInputSettingsPropertyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Animation\AnimationInputSettingsPropertyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Audio.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInput.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInput.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInput.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInput.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInput.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInput.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInputSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInputSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInputSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInputSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInputSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInputSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInputSettingsPropertyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInputSettingsPropertyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInputSettingsPropertyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInputSettingsPropertyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInputSettingsPropertyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Audio\AudioInputSettingsPropertyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInput.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInput.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInput.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInput.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInput.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInput.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettingsPropertyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettingsPropertyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettingsPropertyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettingsPropertyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettingsPropertyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\CameraInputSettingsPropertyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\Shaders.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera\Shaders.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\Shaders.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\Shaders\CopyFB.shader
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera\Shaders\CopyFB.shader
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\Shaders\CopyFB.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\Shaders\CopyFB.shader.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera\Shaders\CopyFB.shader.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera\Shaders\CopyFB.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera360.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360Input.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360Input.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360Input.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360Input.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360Input.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360Input.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360InputPropertyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360InputPropertyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360InputPropertyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360InputPropertyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360InputPropertyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360InputPropertyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360InputSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360InputSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360InputSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360InputSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360InputSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\Camera360\Camera360InputSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\GameView.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInput.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInput.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInput.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInput.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInput.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInput.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInputPropertyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInputPropertyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInputPropertyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInputPropertyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInputPropertyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInputPropertyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInputSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInputSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInputSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInputSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInputSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameView\GameViewInputSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameViewSize.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\GameViewSize.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameViewSize.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameViewSize.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\GameViewSize.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\GameViewSize.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInput.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInput.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInput.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInput.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInput.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInput.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInputSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInputSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInputSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInputSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInputSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInputSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInputSettingsPropertyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInputSettingsPropertyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInputSettingsPropertyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInputSettingsPropertyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInputSettingsPropertyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInputSettingsPropertyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSampler.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSampler.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSampler.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSampler.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSampler.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSampler.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSamplerPropertyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSamplerPropertyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSamplerPropertyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSamplerPropertyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSamplerPropertyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSamplerPropertyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSamplerSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSamplerSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSamplerSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSamplerSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSamplerSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\RenderTextureSamplerSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4Accumulate.shader
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4Accumulate.shader
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4Accumulate.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4Accumulate.shader.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4Accumulate.shader.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4Accumulate.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4Normalize.shader
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4Normalize.shader
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4Normalize.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4Normalize.shader.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4Normalize.shader.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4Normalize.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4SuperShader.shader
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4SuperShader.shader
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4SuperShader.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4SuperShader.shader.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4SuperShader.shader.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Inputs\RenderTextureSampler\Shaders\BS4SuperShader.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\BaseFCRecorderSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\BaseFCRecorderSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\BaseFCRecorderSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\BaseFCRecorderSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\BaseFCRecorderSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\BaseFCRecorderSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\EXR.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorderSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorderSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorderSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorderSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorderSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorderSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorderSettingsEditor.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorderSettingsEditor.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorderSettingsEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorderSettingsEditor.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorderSettingsEditor.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\EXR\EXRRecorderSettingsEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86\fccore.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86\fccore.dll
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86\fccore.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86\fccore.dll.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86\fccore.dll.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86\fccore.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\Info.plist
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\Info.plist
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\Info.plist
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\Info.plist.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\Info.plist.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\Info.plist.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\MacOS.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\MacOS.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\MacOS.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\MacOS\fccore
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\MacOS\fccore
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\MacOS\fccore
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\MacOS\fccore.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\MacOS\fccore.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.bundle\Contents\MacOS\fccore.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.dll
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.dll.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.dll.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Plugins\x86_64\fccore.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\EncoderBase.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\EncoderBase.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\EncoderBase.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\EncoderBase.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\EncoderBase.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\EncoderBase.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\EXREncoder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\EXREncoder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\EXREncoder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\EXREncoder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\EXREncoder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\EXREncoder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\fcAPI.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\fcAPI.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\fcAPI.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\fcAPI.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\fcAPI.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\fcAPI.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\GIFEncoder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\GIFEncoder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\GIFEncoder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\GIFEncoder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\GIFEncoder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\GIFEncoder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\MovieEncoder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\MovieEncoder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\MovieEncoder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\MovieEncoder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\MovieEncoder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\MovieEncoder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\MP4Encoder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\MP4Encoder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\MP4Encoder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\MP4Encoder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\MP4Encoder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\MP4Encoder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\PNGEncoder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\PNGEncoder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\PNGEncoder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\PNGEncoder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\PNGEncoder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\PNGEncoder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\WEBMEncoder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\WEBMEncoder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\WEBMEncoder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\WEBMEncoder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\WEBMEncoder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Encoder\WEBMEncoder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\Bool.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\Bool.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\Bool.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\Bool.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\Bool.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\Bool.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\BoolDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\BoolDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\BoolDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\BoolDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\BoolDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\BoolDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\DataPath.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\DataPath.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\DataPath.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\DataPath.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\DataPath.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\DataPath.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\DataPathDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\DataPathDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\DataPathDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\DataPathDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\DataPathDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\FrameCapturer\Scripts\Misc\DataPathDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\MP4.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4Recorder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4Recorder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4Recorder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4Recorder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4Recorder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4Recorder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4RecorderSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4RecorderSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4RecorderSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4RecorderSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4RecorderSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4RecorderSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4RecorderSettingsEditor.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4RecorderSettingsEditor.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4RecorderSettingsEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4RecorderSettingsEditor.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4RecorderSettingsEditor.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\MP4\MP4RecorderSettingsEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\PNG.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorderSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorderSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorderSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorderSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorderSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorderSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorderSettingsEditor.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorderSettingsEditor.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorderSettingsEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorderSettingsEditor.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorderSettingsEditor.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\PNG\PNGRecorderSettingsEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\WEBM.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorderSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorderSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorderSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorderSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorderSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorderSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorderSettingsEditor.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorderSettingsEditor.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorderSettingsEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorderSettingsEditor.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorderSettingsEditor.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\_Legacy\WEBM\WEBMRecorderSettingsEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\AnimationRecorder.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorderSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorderSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorderSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorderSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorderSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorderSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorderSettingsEditor.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorderSettingsEditor.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorderSettingsEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorderSettingsEditor.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorderSettingsEditor.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\AnimationRecorderSettingsEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\Resources.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\AnimationRecorder\Resources.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\Resources.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\Resources\animation_recorder.png
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\AnimationRecorder\Resources\animation_recorder.png
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\Resources\animation_recorder.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\Resources\animation_recorder.png.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\AnimationRecorder\Resources\animation_recorder.png.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\AnimationRecorder\Resources\animation_recorder.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\GIFRecorder.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorderSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorderSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorderSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorderSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorderSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorderSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorderSettingsEditor.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorderSettingsEditor.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorderSettingsEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorderSettingsEditor.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorderSettingsEditor.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\GIFRecorder\GIFRecorderSettingsEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\ImageRecorder.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorderEditor.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorderEditor.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorderEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorderEditor.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorderEditor.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorderEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorderSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorderSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorderSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorderSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorderSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\ImageRecorderSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\Resources.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\ImageRecorder\Resources.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\Resources.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\Resources\d_imagesequence_16.png
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\ImageRecorder\Resources\d_imagesequence_16.png
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\Resources\d_imagesequence_16.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\Resources\d_imagesequence_16.png.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\ImageRecorder\Resources\d_imagesequence_16.png.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\Resources\d_imagesequence_16.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\Resources\imagesequence_16.png
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\ImageRecorder\Resources\imagesequence_16.png
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\Resources\imagesequence_16.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\Resources\imagesequence_16.png.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\ImageRecorder\Resources\imagesequence_16.png.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\ImageRecorder\Resources\imagesequence_16.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\MovieRecorder.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorder.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorder.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorder.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorder.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorder.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorder.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorderEditor.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorderEditor.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorderEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorderEditor.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorderEditor.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorderEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorderSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorderSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorderSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorderSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorderSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\MovieRecorderSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\Resources.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\MovieRecorder\Resources.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\Resources.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\Resources\d_movie_16.png
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\MovieRecorder\Resources\d_movie_16.png
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\Resources\d_movie_16.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\Resources\d_movie_16.png.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\MovieRecorder\Resources\d_movie_16.png.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\Resources\d_movie_16.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\Resources\movie_16.png
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\MovieRecorder\Resources\movie_16.png
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\Resources\movie_16.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\Resources\movie_16.png.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Recorders\MovieRecorder\Resources\movie_16.png.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Recorders\MovieRecorder\Resources\movie_16.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderSettings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderSettings.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderSettings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderSettings.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderSettingsAttribute.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderSettingsAttribute.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderSettingsAttribute.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderSettingsAttribute.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderSettingsAttribute.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderSettingsAttribute.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderSettingsPrefsEditor.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderSettingsPrefsEditor.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderSettingsPrefsEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderSettingsPrefsEditor.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderSettingsPrefsEditor.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderSettingsPrefsEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecordersInventory.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecordersInventory.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecordersInventory.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecordersInventory.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecordersInventory.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecordersInventory.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderWindow.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderWindow.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderWindow.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecorderWindow.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecorderWindow.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecorderWindow.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecordingSession.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecordingSession.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecordingSession.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecordingSession.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecordingSession.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecordingSession.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecordModePropertyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecordModePropertyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecordModePropertyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\RecordModePropertyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\RecordModePropertyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\RecordModePropertyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\customrecorder_16.png
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\customrecorder_16.png
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\customrecorder_16.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\customrecorder_16.png.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\customrecorder_16.png.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\customrecorder_16.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\d_customrecorder_16.png
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\d_customrecorder_16.png
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\d_customrecorder_16.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\d_customrecorder_16.png.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\d_customrecorder_16.png.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\d_customrecorder_16.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\d_popout_icon.png
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\d_popout_icon.png
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\d_popout_icon.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\d_popout_icon.png.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\d_popout_icon.png.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\d_popout_icon.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\popout_icon.png
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\popout_icon.png
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\popout_icon.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\popout_icon.png.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\popout_icon.png.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\popout_icon.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\recorder_icon.png
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\recorder_icon.png
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\recorder_icon.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\recorder_icon.png.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\recorder_icon.png.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\recorder_icon.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\Styles.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\Styles.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\Styles.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\Styles\recorder.uss
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\Styles\recorder.uss
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\Styles\recorder.uss
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\Styles\recorder.uss.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\Styles\recorder.uss.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\Styles\recorder.uss.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\Styles\recorder_darkSkin.uss
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\Styles\recorder_darkSkin.uss
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\Styles\recorder_darkSkin.uss
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\Styles\recorder_darkSkin.uss.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\Styles\recorder_darkSkin.uss.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\Styles\recorder_darkSkin.uss.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\Styles\recorder_lightSkin.uss
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\Styles\recorder_lightSkin.uss
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\Styles\recorder_lightSkin.uss
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\Styles\recorder_lightSkin.uss.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\Styles\recorder_lightSkin.uss.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\Styles\recorder_lightSkin.uss.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\vertical_gradient.png
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\vertical_gradient.png
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\vertical_gradient.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\Resources\vertical_gradient.png.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\Resources\vertical_gradient.png.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\Resources\vertical_gradient.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\SceneHook.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\SceneHook.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\SceneHook.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\SceneHook.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\SceneHook.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\SceneHook.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\TargetedPropertyDrawer.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\TargetedPropertyDrawer.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\TargetedPropertyDrawer.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\TargetedPropertyDrawer.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\TargetedPropertyDrawer.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\TargetedPropertyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\TextureFlipper.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\TextureFlipper.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\TextureFlipper.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\TextureFlipper.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\TextureFlipper.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\TextureFlipper.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\VisualListItem.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\VisualListItem.cs
-    projectPath: Assets\Unity Recorder\Editor\Sources\VisualListItem.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Sources\VisualListItem.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Sources\VisualListItem.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Sources\VisualListItem.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Timeline.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Timeline.meta
-    projectPath: Assets\Unity Recorder\Editor\Timeline.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Timeline\_WaitForEndOfFrameComponent.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Timeline\_WaitForEndOfFrameComponent.cs
-    projectPath: Assets\Unity Recorder\Editor\Timeline\_WaitForEndOfFrameComponent.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Timeline\_WaitForEndOfFrameComponent.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Timeline\_WaitForEndOfFrameComponent.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Timeline\_WaitForEndOfFrameComponent.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Timeline\RecorderClip.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Timeline\RecorderClip.cs
-    projectPath: Assets\Unity Recorder\Editor\Timeline\RecorderClip.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Timeline\RecorderClip.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Timeline\RecorderClip.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Timeline\RecorderClip.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Timeline\RecorderClipEditor.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Timeline\RecorderClipEditor.cs
-    projectPath: Assets\Unity Recorder\Editor\Timeline\RecorderClipEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Timeline\RecorderClipEditor.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Timeline\RecorderClipEditor.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Timeline\RecorderClipEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Timeline\RecorderPlayableBehaviour.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Timeline\RecorderPlayableBehaviour.cs
-    projectPath: Assets\Unity Recorder\Editor\Timeline\RecorderPlayableBehaviour.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Timeline\RecorderPlayableBehaviour.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Timeline\RecorderPlayableBehaviour.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Timeline\RecorderPlayableBehaviour.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Timeline\RecorderSelector.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Timeline\RecorderSelector.cs
-    projectPath: Assets\Unity Recorder\Editor\Timeline\RecorderSelector.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Timeline\RecorderSelector.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Timeline\RecorderSelector.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Timeline\RecorderSelector.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Timeline\RecorderTrack.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Timeline\RecorderTrack.cs
-    projectPath: Assets\Unity Recorder\Editor\Timeline\RecorderTrack.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Timeline\RecorderTrack.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Timeline\RecorderTrack.cs.meta
-    projectPath: Assets\Unity Recorder\Editor\Timeline\RecorderTrack.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Unity.Recorder.Editor.asmdef
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Unity.Recorder.Editor.asmdef
-    projectPath: Assets\Unity Recorder\Editor\Unity.Recorder.Editor.asmdef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Editor\Unity.Recorder.Editor.asmdef.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Editor\Unity.Recorder.Editor.asmdef.meta
-    projectPath: Assets\Unity Recorder\Editor\Unity.Recorder.Editor.asmdef.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\LICENSE.md
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\LICENSE.md
-    projectPath: Assets\Unity Recorder\LICENSE.md
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\LICENSE.md.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\LICENSE.md.meta
-    projectPath: Assets\Unity Recorder\LICENSE.md.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Runtime.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Runtime.meta
-    projectPath: Assets\Unity Recorder\Runtime.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Runtime\RecorderBindings.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Runtime\RecorderBindings.cs
-    projectPath: Assets\Unity Recorder\Runtime\RecorderBindings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Runtime\RecorderBindings.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Runtime\RecorderBindings.cs.meta
-    projectPath: Assets\Unity Recorder\Runtime\RecorderBindings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Runtime\SerializedDictionnary.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Runtime\SerializedDictionnary.cs
-    projectPath: Assets\Unity Recorder\Runtime\SerializedDictionnary.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Runtime\SerializedDictionnary.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Runtime\SerializedDictionnary.cs.meta
-    projectPath: Assets\Unity Recorder\Runtime\SerializedDictionnary.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Runtime\Unity.Recorder.asmdef
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Runtime\Unity.Recorder.asmdef
-    projectPath: Assets\Unity Recorder\Runtime\Unity.Recorder.asmdef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Runtime\Unity.Recorder.asmdef.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Runtime\Unity.Recorder.asmdef.meta
-    projectPath: Assets\Unity Recorder\Runtime\Unity.Recorder.asmdef.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Samples.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Samples.meta
-    projectPath: Assets\Unity Recorder\Samples.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Samples\Editor.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Samples\Editor.meta
-    projectPath: Assets\Unity Recorder\Samples\Editor.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Samples\Editor\RecorderEditorExample.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Samples\Editor\RecorderEditorExample.cs
-    projectPath: Assets\Unity Recorder\Samples\Editor\RecorderEditorExample.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Samples\Editor\RecorderEditorExample.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Samples\Editor\RecorderEditorExample.cs.meta
-    projectPath: Assets\Unity Recorder\Samples\Editor\RecorderEditorExample.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Samples\RecorderExample.cs
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Samples\RecorderExample.cs
-    projectPath: Assets\Unity Recorder\Samples\RecorderExample.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Samples\RecorderExample.cs.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Samples\RecorderExample.cs.meta
-    projectPath: Assets\Unity Recorder\Samples\RecorderExample.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Samples\Unity.Recorder.Samples.asmdef
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Samples\Unity.Recorder.Samples.asmdef
-    projectPath: Assets\Unity Recorder\Samples\Unity.Recorder.Samples.asmdef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Unity Recorder\Samples\Unity.Recorder.Samples.asmdef.meta
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Assets\Unity
-      Recorder\Samples\Unity.Recorder.Samples.asmdef.meta
-    projectPath: Assets\Unity Recorder\Samples\Unity.Recorder.Samples.asmdef.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\AnnotationManager
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\AnnotationManager
+    projectPath: Library\AnnotationManager
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\APIUpdater\project-dependencies.graph
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\APIUpdater\project-dependencies.graph
     projectPath: Library\APIUpdater\project-dependencies.graph
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\assetDatabase3
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\assetDatabase3
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\AssetImportState
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\AssetImportState
+    projectPath: Library\AssetImportState
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\EditorInstance.json
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\EditorInstance.json
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\EditorUserBuildSettings.asset
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\EditorUserBuildSettings.asset
     projectPath: Library\EditorUserBuildSettings.asset
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\expandedItems
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\expandedItems
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\expandedItems
     projectPath: Library\expandedItems
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
     projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
     projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
     projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Oculus.VR.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Oculus.VR.dll
     projectPath: Library\ScriptAssemblies\Oculus.VR.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Oculus.VR.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Oculus.VR.Editor.dll
     projectPath: Library\ScriptAssemblies\Oculus.VR.Editor.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
     projectPath: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
     projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Recorder.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Unity.Recorder.dll
-    projectPath: Library\ScriptAssemblies\Unity.Recorder.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.Timeline.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEditor.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEngine.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptMapper
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ScriptMapper
-    projectPath: Library\ScriptMapper
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache.db
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\ShaderCache.db
-    projectPath: Library\ShaderCache.db
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe10.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe11.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe4.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe5.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe6.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe7.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe8.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe9.log
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe9.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\10bd1b-965716b1b5cefa948b.json
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\StateCache\Hierarchy\10bd1b-965716b1b5cefa948b.json
-    projectPath: Library\StateCache\Hierarchy\10bd1b-965716b1b5cefa948b.json
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\StateCache\Hierarchy\10bd1b-mainStage.json
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\Hierarchy\10bd1b-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\10bd1b-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\Hierarchy\10bd1b-cdea235694a86bd4eb.json
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\StateCache\Hierarchy\10bd1b-cdea235694a86bd4eb.json
-    projectPath: Library\StateCache\Hierarchy\10bd1b-cdea235694a86bd4eb.json
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\StateCache\Hierarchy\2097cb-mainStage.json
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\Hierarchy\2097cb-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\2097cb-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\b6d77a-965716b1b5cefa948b.json
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\StateCache\SceneView\b6d77a-965716b1b5cefa948b.json
-    projectPath: Library\StateCache\SceneView\b6d77a-965716b1b5cefa948b.json
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Library\StateCache\Hierarchy\896226-mainStage.json
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\Hierarchy\896226-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\896226-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\b6d77a-cdea235694a86bd4eb.json
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\StateCache\SceneView\b6d77a-cdea235694a86bd4eb.json
-    projectPath: Library\StateCache\SceneView\b6d77a-cdea235694a86bd4eb.json
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Library\StateCache\Hierarchy\c46be3-mainStage.json
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\Hierarchy\c46be3-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\c46be3-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\b6d77a-mainStage.json
-    fullPath: C:\Users\Visitor\Desktop\Rush Diving redo\Rush-Diving-src\Library\StateCache\SceneView\b6d77a-mainStage.json
-    projectPath: Library\StateCache\SceneView\b6d77a-mainStage.json
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Library\StateCache\Hierarchy\c8939c-mainStage.json
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\Hierarchy\c8939c-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\c8939c-mainStage.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Library\StateCache\SceneView\296ef5-mainStage.json
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\296ef5-mainStage.json
+    projectPath: Library\StateCache\SceneView\296ef5-mainStage.json
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Library\StateCache\SceneView\2beb11-mainStage.json
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\2beb11-mainStage.json
+    projectPath: Library\StateCache\SceneView\2beb11-mainStage.json
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Library\StateCache\SceneView\3cfb78-mainStage.json
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\3cfb78-mainStage.json
+    projectPath: Library\StateCache\SceneView\3cfb78-mainStage.json
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Library\StateCache\SceneView\438cfd-mainStage.json
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\438cfd-mainStage.json
+    projectPath: Library\StateCache\SceneView\438cfd-mainStage.json
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Library\StateCache\SceneView\6aa122-mainStage.json
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\6aa122-mainStage.json
+    projectPath: Library\StateCache\SceneView\6aa122-mainStage.json
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Library\StateCache\SceneView\ac7fbb-mainStage.json
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\ac7fbb-mainStage.json
+    projectPath: Library\StateCache\SceneView\ac7fbb-mainStage.json
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Library\StateCache\SceneView\fea57a-mainStage.json
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\fea57a-mainStage.json
+    projectPath: Library\StateCache\SceneView\fea57a-mainStage.json
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
