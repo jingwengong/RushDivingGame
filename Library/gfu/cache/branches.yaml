@@ -13,17 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-12-03T02:56:11.182-08:00
-  initializedAtString: 2019-12-03T02:56:11.170-08:00
+  lastUpdatedAtString: 2019-12-04T05:53:30.085-08:00
+  initializedAtString: 2019-12-04T05:53:12.174-08:00
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/shenyi1028/Rush-Diving-src.git
+    url: https://github.com/jingwengong/RushDivingGame.git
     login: 
     user: 
     host: 
@@ -36,7 +38,7 @@ MonoBehaviour:
     - name: master
       remote:
         name: origin
-        url: https://github.com/shenyi1028/Rush-Diving-src.git
+        url: https://github.com/jingwengong/RushDivingGame.git
       trackingBranch: master
   remoteConfigBranches:
     keys:
@@ -44,16 +46,22 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - master
     subKeyValues:
     - Values:
       - name: HEAD
         remote:
           name: origin
-          url: https://github.com/shenyi1028/Rush-Diving-src.git
+          url: https://github.com/jingwengong/RushDivingGame.git
+        trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/jingwengong/RushDivingGame.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/shenyi1028/Rush-Diving-src.git
+      url: https://github.com/jingwengong/RushDivingGame.git

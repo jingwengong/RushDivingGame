@@ -13,420 +13,54 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-12-04T05:43:54.151-08:00
+  lastUpdatedAtString: 2019-12-04T05:59:16.759-08:00
   initializedAtString: 2019-12-04T05:43:42.256-08:00
   entries:
-  - path: Assets\Scenes\Game.unity
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Assets\Scenes\Game.unity
-    projectPath: Assets\Scenes\Game.unity
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Assets\Scripts\DiverControl.cs
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Assets\Scripts\DiverControl.cs
-    projectPath: Assets\Scripts\DiverControl.cs
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\AnnotationManager
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\AnnotationManager
-    projectPath: Library\AnnotationManager
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\APIUpdater\project-dependencies.graph
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
   - path: Library\assetDatabase3
     fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\AssetImportState
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\AssetImportState
-    projectPath: Library\AssetImportState
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\CurrentMaximizeLayout.dwlt
     fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\EditorInstance.json
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\EditorUserBuildSettings.asset
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\expandedItems
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
-    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
-    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
-    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Oculus.VR.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Oculus.VR.dll
-    projectPath: Library\ScriptAssemblies\Oculus.VR.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Oculus.VR.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Oculus.VR.Editor.dll
-    projectPath: Library\ScriptAssemblies\Oculus.VR.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
-    projectPath: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe10.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe11.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe7.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe8.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\shadercompiler-UnityShaderCompiler.exe9.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\StateCache\Hierarchy\10bd1b-mainStage.json
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\Hierarchy\10bd1b-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\10bd1b-mainStage.json
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\StateCache\Hierarchy\2097cb-mainStage.json
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\Hierarchy\2097cb-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\2097cb-mainStage.json
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\StateCache\Hierarchy\896226-mainStage.json
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\Hierarchy\896226-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\896226-mainStage.json
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\StateCache\Hierarchy\c46be3-mainStage.json
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\Hierarchy\c46be3-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\c46be3-mainStage.json
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\StateCache\Hierarchy\c8939c-mainStage.json
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\Hierarchy\c8939c-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\c8939c-mainStage.json
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\StateCache\SceneView\296ef5-mainStage.json
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\296ef5-mainStage.json
-    projectPath: Library\StateCache\SceneView\296ef5-mainStage.json
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\StateCache\SceneView\2beb11-mainStage.json
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\2beb11-mainStage.json
-    projectPath: Library\StateCache\SceneView\2beb11-mainStage.json
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\StateCache\SceneView\3cfb78-mainStage.json
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\3cfb78-mainStage.json
-    projectPath: Library\StateCache\SceneView\3cfb78-mainStage.json
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\StateCache\SceneView\438cfd-mainStage.json
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\438cfd-mainStage.json
-    projectPath: Library\StateCache\SceneView\438cfd-mainStage.json
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\StateCache\SceneView\6aa122-mainStage.json
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\6aa122-mainStage.json
-    projectPath: Library\StateCache\SceneView\6aa122-mainStage.json
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\StateCache\SceneView\ac7fbb-mainStage.json
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\ac7fbb-mainStage.json
-    projectPath: Library\StateCache\SceneView\ac7fbb-mainStage.json
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\StateCache\SceneView\fea57a-mainStage.json
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\Library\StateCache\SceneView\fea57a-mainStage.json
-    projectPath: Library\StateCache\SceneView\fea57a-mainStage.json
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\Visitor\Desktop\RushDivingAGAIN\RushDivingGame\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
